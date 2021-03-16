@@ -4,5 +4,5 @@ This repository contains the refactored version of the starter code for week 1 h
 # Screenshot
 ![homework_solved_image](https://user-images.githubusercontent.com/1855513/111317340-4b483c00-8621-11eb-9a89-0f17bad375d8.png)
 
-#Link to repository
+# Link to repository
 https://github.com/reddituser7777/week-one-homework
